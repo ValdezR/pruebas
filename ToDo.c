@@ -32,7 +32,7 @@ int main(){
     char *Buff;
     
     int ContadorTareasRealizadas = 0;
-    char *PalabraClave;
+    //char *PalabraClave;
 
     Buff = (char *) malloc(100 * sizeof(char));
 
